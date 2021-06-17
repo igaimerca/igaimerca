@@ -17,10 +17,3 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=igaimerca&layout=compact&theme=material-palenight" />
 </a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=igaimerca&repo=github-readme-stats&theme=material-palenight" />
-</a>    
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=igaimerca&repo=anuraghazra.github.io&theme=material-palenight" />
-</a>
