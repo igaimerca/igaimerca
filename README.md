@@ -9,4 +9,4 @@
 - 🌱 Learning all about **Open Source**
 - 📫 Reach me: [twitter.com/aimeigirimpuhwe](https://twitter.com/aimeigirimpuhwe)
 - 
-![Metrics](https://metrics.lecoq.io/igaimerca?template=classic&repositories.affiliations=&config.timezone=Africa%2FCairo)
+![Metrics](https://metrics.lecoq.io/igaimerca?template=classic)
