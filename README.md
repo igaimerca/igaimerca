@@ -8,5 +8,5 @@
 - ⚙️ I love MERN, ReactJS Magician
 - 🌱 Learning all about **Open Source**
 - 📫 Reach me: [twitter.com/aimeigirimpuhwe](https://twitter.com/aimeigirimpuhwe)
-- 
-![Metrics](https://github.com/igaimerca/blob/master/github-metrics.svg)
+
+![Metrics](https://metrics.lecoq.io/igaimerca?template=classic&config.timezone=Africa%2FKigali)
