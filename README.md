@@ -5,5 +5,5 @@
 ##### BIO
 
 - ⚙️ I love MERN, ReactJS Magician
-- 🌱 Learning all about **Open Source**
+- 🌱 Building&Learning something **New**
 - 📫 Reach me: [twitter.com/aimeigirimpuhwe](https://twitter.com/aimeigirimpuhwe
