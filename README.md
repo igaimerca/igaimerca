@@ -4,6 +4,6 @@
 
 ##### BIO
 
-- ⚙️ I love MERN, ReactJS Magician
+- ⚙️ I love Python, MERN, ReactJS Magician
 - 🌱 Building&Learning something **New**
 - 📫 Reach me: Twitter https://twitter.com/aimeigirimpuhwe
