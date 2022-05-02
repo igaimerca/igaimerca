@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-#### I'm a Full-Stack Developer based in Rwanda.
+### I'm a Full-Stack Developer based in Rwanda.
 
 ##### BIO
 
