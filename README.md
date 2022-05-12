@@ -6,6 +6,7 @@
 
 - ⚙️ I love Python, MERN, ReactJS Magician
 - 🌱 Building&Learning something **New**
+- Currently improving DSA skills
 - 📫 Reach me: Twitter https://twitter.com/aimeigirimpuhwe
 <p align="center"> 
   Visitor count<br>
