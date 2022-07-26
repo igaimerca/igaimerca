@@ -1,12 +1,7 @@
 ## Hi there 👋
 
-### I'm a Full-Stack Developer based in Rwanda.
+### Frontend Developer at Sigma Bold
 
-##### BIO
-
-- ⚙️ I love Python, MERN, ReactJS Magician
-- 🌱 Building&Learning something **New**
-- 🌱 Currently improving DSA skills
 - 📫 Reach me: Twitter https://twitter.com/aimeigirimpuhwe
 <p align="center"> 
   Visitor count<br>
